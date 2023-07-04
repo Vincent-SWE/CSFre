@@ -9,8 +9,6 @@ public class SearchList {
 
         List<Book> books = new LinkedList<>();
 
-        
-
         return null;
     }
 
